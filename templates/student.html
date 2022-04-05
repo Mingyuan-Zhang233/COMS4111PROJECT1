@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block content %}
+    <h1>{% block title %} View Student Courses{% endblock %}</h1>
+    <form method="POST">
+        <label for="sname">Student Name</label>
+        <br>
+        <input type="text" name="sname"
+               placeholder="First Last"
+               value="{{ request.form['sname'] }}"/>
+        <br>
+        <label for="tag">Select Viewing Option</label>
+			<select name="tag">
+				<option value="past">Past Courses</option>
+				<option value="curr">Current Courses</option>
+			</select>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+{% endblock %}

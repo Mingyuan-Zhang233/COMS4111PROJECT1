@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Manage by SQL Statment {% endblock %}</h1>
+    <form method="post">
+        <label for="content"> </label>
+        <br>
+        <textarea name="content"
+                  placeholder="Write statements here"
+                  rows="20"
+                  cols="75"
+                  >{{ request.form['content'] }}</textarea>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+    <h1>Results</h1>
+        <table>
+            {% for row in data %}
+            <tr>
+                {% for item in row%}
+                <td>{{item}}</td>
+                {% endfor %}
+            </tr>
+            {% endfor %}
+        </table>
+{% endblock %}

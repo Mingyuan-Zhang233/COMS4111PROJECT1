@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Add a New Course {% endblock %}</h1>
+    <form method="POST">
+        <label for="cname">Course Name</label>
+        <br>
+        <input type="text" name="cname"
+               placeholder="Course Name"
+               value="{{ request.form['cname'] }}"/>
+        <br>
+        <label for="sch">School</label>
+			<select name="sch">
+				<option value="Columbia College">Columbia College</option>
+				<option value="School of Engineering and Applied Science">School of Engineering and Applied Science</option>
+			</select>
+        <br>
+        <label for="cid">Course ID</label>
+        <br>
+        <input type="text" name="cid"
+               placeholder="example: ECBM4060"
+               value="{{ request.form['cid'] }}"/>
+        <br>
+        <label for="credit">Course Credit</label>
+        <br>
+        <input type="text" name="credit"
+               placeholder="0.0"
+               value="{{ request.form['credit'] }}"/>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+{% endblock %}

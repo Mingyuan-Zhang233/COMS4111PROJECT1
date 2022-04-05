@@ -1,0 +1,68 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Add a New Student {% endblock %}</h1>
+    <form method="POST">
+        <label for="sname">Student Name</label>
+        <br>
+        <input type="text" name="sname"
+               placeholder="Firstname Lastname"
+               value="{{ request.form['sname'] }}"/>
+        <br>
+        <label for="uni">UNI</label>
+        <br>
+        <input type="text" name="uni"
+               placeholder="Enter UNI: ab1234"
+               value="{{ request.form['uni'] }}"/>
+        <br>
+        <label for="sch">School</label>
+        <br>
+			<select name="sch">
+				<option value="Columbia College">Columbia College</option>
+				<option value="School of Engineering and Applied Science">School of Engineering and Applied Science</option>
+			</select>
+        <br>
+        <label for="did">Department:</label>
+        <br>
+			<select name="did">
+				<option value="1">Electrical Engineering</option>
+				<option value="2">Computer Science</option>
+				<option value="3">Biomedical Engineering</option>
+				<option value="4">Industrial Engineering</option>
+				<option value="5">Mechanical Engineering</option>
+				<option value="6">Biology</option>
+            </select>
+        <br>
+        <label for="pid">Program</label>
+        <br>
+        <select name="pid">
+            <option value="1">Bachelor of Science</option>
+            <option value="2">Bachelor of Art</option>
+            <option value="3">Master of Art</option>
+            <option value="4">Master of Science</option>
+            <option value="5">Non-degree Program</option>
+        </select>
+        <br>
+        <label for="status">Status</label>
+        <br>
+        <select name="status">
+            <option value="Full-time">Full-time</option>
+            <option value="Part-time">Part-time</option>
+            <option value="Absent">Absent</option>
+        </select>
+        <br>
+        <label for="exp">Expected Graduation Year</label>
+        <br>
+        <input type="text" name="exp"
+               placeholder="YYYY-MM-DD"
+               value="{{ request.form['exp'] }}">
+        <br>
+        <label for="addm">Admission Year</label>
+        <br>
+        <input type="text" name="addm"
+               placeholder="YYYY-MM-DD"
+               value="{{ request.form['addm'] }}">
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+{% endblock %}

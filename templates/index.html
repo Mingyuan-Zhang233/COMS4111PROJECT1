@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block redirs%}
+    {% for message in messages %}
+        <meta http-equiv="refresh" content="; url={{message['link']}}" />
+    {% endfor %}
+{% endblock %}
+
+{% block content %}
+    <h1>{% block title %}   {% endblock %}</h1>
+    {% for message in messages %}
+        <div class='message'>
+            <h2>{{ message['title'] }}</h2>
+            {% for option in message['option'] %}
+            <p><a href={{option['link']}}>{{ option['content'] }}</a></p>
+            {% endfor %}
+        </div>
+    {% endfor %}
+{% endblock %}

@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% block content %}
+    <h1>{% block title %} Find a Section {% endblock %}</h1>
+    <form method="POST">
+        <label for="choice">Find Section by</label>
+            <select name="choice">
+                <option value="cid">Course ID</option>
+                <option value="ins">Instructor</option>
+                <option value="loc">Location</option>
+            </select> (Locations are only assigned to current sections)
+        <br>
+        <input type="text" name="inp"
+               placeholder="Leave blank to see all"
+               value="{{ request.form['inp'] }}"/>
+        <br>
+        <label for="tag">Select Viewing Option</label>
+			<select name="tag">
+				<option value="past">View Past Sections</option>
+				<option value="curr">View Current Sections</option>
+			</select>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+{% endblock %}

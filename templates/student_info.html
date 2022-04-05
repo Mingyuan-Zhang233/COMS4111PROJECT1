@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block content %}
+    <h1>{% block title %} View Student Courses{% endblock %}</h1>
+    <form method="POST">
+        <label for="sid">Enter UNI to View Student Info</label>
+        <br>
+        <input type="text" name="sid"
+               placeholder="First Last"
+               value="{{ request.form['sid'] }}"/>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+{% endblock %}

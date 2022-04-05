@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Add a New Section {% endblock %}</h1>
+    <form method="POST">
+        <label for="csid">Section Number</label>
+        <br>
+        <input type="text" name="csid"
+               placeholder="001"
+               value="{{ request.form['csid'] }}"/>
+        <br>
+        <label for="cid">Course ID</label>
+        <br>
+        <input type="text" name="cid"
+               placeholder="example: ECBM4060"
+               value="{{ request.form['cid'] }}"/>
+        <br>
+        <label for="ins">Instructor</label>
+        <br>
+        <input type="text" name="ins"
+               placeholder="Name"
+               value="{{ request.form['ins'] }}"/>
+        <br>
+        <label for="loc">Location</label>
+        <br>
+        <input type="text" name="loc"
+               placeholder="Mudd 1201"
+               value="{{ request.form['loc'] }}"/>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+{% endblock %}

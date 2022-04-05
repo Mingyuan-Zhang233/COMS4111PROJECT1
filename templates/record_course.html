@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Add a New Record {% endblock %}</h1>
+    <form method="POST">
+        <label for="sid">UNI</label>
+        <br>
+        <input type="text" name="sid"
+               placeholder="ab1234"
+               value="{{ request.form['uni'] }}"/>
+        <br>
+        <label for="cid">Course ID</label>
+        <br>
+        <input type="text" name="cid"
+               placeholder="example: ECBM4060"
+               value="{{ request.form['cid'] }}"/>
+        <br>
+        <label for="csid">Section Number</label>
+        <br>
+        <input type="text" name="csid"
+               placeholder="001"
+               value="{{ request.form['csid'] }}"/>
+        <button type="submit">Submit</button>
+    </form>
+{% endblock %}
