@@ -208,4 +208,4 @@ def sinfo():
                 data[idx].insert(0, head[idx])
         return flask.render_template('display.html', data=data, title='Student Info')
     return flask.render_template('student_info.html')
-app.run()
+app.run(host='0.0.0.0', port=80)
