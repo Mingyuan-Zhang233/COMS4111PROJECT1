@@ -1,6 +1,6 @@
 1. The Database is on the server under account mz2715.
 
-2. Once server.py is executed, our web page is accessible at 127.0.0.1 through port 5000, which is the default address of Flask. 
+2. Once server.py is executed, our web page is accessible at 34.138.91.154 through port 80 (default HTTP port). 
 
 3. We implemented the function of adding students, courses, sections of courses, and registration record (is_taking table) into the database. In addition, we implemented pages that let the user to see a student's info, search for sections by a variety of criteria, and viewing a student's current and past courses. Moreover, we provided an "admin backdoor" to operate directly on the database. This ideally should be password-protected but not yet implemented. Changing "school" or "department" is not implemented as I don't think founding or removing schools or departments is very unlikely to happen. 
 
