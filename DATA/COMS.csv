@@ -1,0 +1,141 @@
+cid,sid,instructor,cname,department,Date
+COMS W 4172,1,"Feiner, Steven K",3D User Interfaces and Augmented Reality,Computer Science,Spring 2022
+COMS E 6998,1,"Hirschberg, Julia B.",Adv Spoken Language Proce,Computer Science,Spring 2022
+COMS E 6998,7,"Belhumeur, Peter N",Adv Topics Proj Deep Lear,Computer Science,Spring 2022
+COMS W 4232,1,"Andoni, Alexandr",Advanced Algorithms,Computer Science,Spring 2022
+COMS E 6111,1,"Gravano, Luis",Advanced Database Systems,Computer Science,Spring 2022
+COMS W 3157,1,"Lee, Jae Woo",Advanced Programming,Computer Science,Spring 2022
+COMS E 6998,2,"Ray, Baishakhi",Ai For Software Engineeri,Computer Science,Spring 2022
+CSOR W 4231,1,"Drinea, Eleni",Analysis of Algorithms I,Computer Science,Spring 2022
+CSOR W 4231,2,"Chen, Xi",Analysis of Algorithms I,Computer Science,Spring 2022
+COMS W 4995,20,"Pappu, Vijay",Applied Machine Learning,Computer Science,Spring 2022
+COMS W 4701,2,"Dear, Tony",Artificial Intelligence,Computer Science,Spring 2022
+COMS W 4995,3,"Bareinboim, Elias",Causal Inference Ii,Computer Science,Spring 2022
+COMS E 6998,8,"Sahu, Sambit",Cloud Computing & Big Dat,Computer Science,Spring 2022
+COMS E 6998,4,"Pitassi, Toniann",Communication Complexity,Computer Science,Spring 2022
+COMS W 4733,1,"Song, Shuran",Computational Aspects of Robotics,Computer Science,Spring 2022
+CBMF W 4761,1,"Pe'er, Itsik G",Computational Genomics,Computer Science,Spring 2022
+COMS W 3251,1,"Dear, Tony",Computational Linear Algebra,Computer Science,Spring 2022
+CSEE 4119,2,"Schulzrinne, Henning G",Computer Network,Computer Science,Spring 2022
+CSEE W 4119,1,"Zussman, Gil",Computer Networks,Computer Science,Spring 2022
+CSEE W 4119,2,"Schulzrinne, Henning G",Computer Networks,Computer Science,Spring 2022
+COMS S 3261,1,"Yannakakis, Mihalis",Computer Science Theory,Computer Science,Spring 2022
+CSEE W 4121,2,"Sahu, Sambit",Computer Systems for Data Science,Computer Science,Spring 2022
+CSEE W 4121,3,"Cidon, Asaf",Computer Systems for Data Science,Computer Science,Spring 2022
+COMS W 4732,1,"Vondrick, Carl",Computer Vision II: Learning,Computer Science,Spring 2022
+COMS W 3134,1,"Blaer, Paul S",Data Structures in Java,Computer Science,Spring 2022
+COMS W 4112,1,"Ross, Kenneth A",Database System Implementation,Computer Science,Spring 2022
+COMS W 4995,12,"Drori, Iddo",Deep Learning,Computer Science,Spring 2022
+COMS W 4995,5,"Stroustrup, Bjarne",Design Using C++,Computer Science,Spring 2022
+COMS W 3203,1,"Salleb-Aouissi, Ansaf",Discrete Mathematics: Introduction To Combinatorics and Graph Theory,Computer Science,Spring 2022
+CSEE E 6868,1,"Carloni, Luca",Embedded Scalable Platforms,Computer Science,Spring 2022
+CSEE W 4840,1,"Edwards, Stephen A.",Embedded System Design,Computer Science,Spring 2022
+COMS W 4995,13,"Levine, Michelle F",Empirical Methods Data Sc,Computer Science,Spring 2022
+COMS E 6998,3,"Beigi, Homayoon",Fund Speech Recognition,Computer Science,Spring 2022
+CSEE W 3827,1,"Rubenstein, Dan",Fundamentals of Computer Systems,Computer Science,Spring 2022
+COMS W 4113,1,"Geambasu, Roxana",Fundamentals of Large-Scale Distributed Systems,Computer Science,Spring 2022
+COMS W 4995,4,"Blumberg, Andrew",Geometric Data Analysis,Computer Science,Spring 2022
+COMS E 6424,1,"Sethumadhavan, Simha",Hardware Security,Computer Science,Spring 2022
+COMS W 3137,1,"Bauer, Daniel",Honors Data Structures and Algorithms,Computer Science,Spring 2022
+COMS E 6178,1,"Smith, Brian A",Human-Computer Interaction,Computer Science,Spring 2022
+ENGI E 1006,1,"Paine, Timothy",Intro To Comp For Eng/app,Computer Science,Spring 2022
+COMS W 4995,11,"Swinehart, Christian",Intro to Data Visualization,Computer Science,Spring 2022
+COMS W 4995,7,"Chaintreau, Augustin",Intro To Networks And Cro,Computer Science,Spring 2022
+COMS W 4236,1,"Servedio, Rocco A.",Introduction To Computational Complexity,Computer Science,Spring 2022
+COMS W 1004,2,"Cannon, Adam H",Introduction To Computer Science And Programming In Java,Computer Science,Spring 2022
+COMS W 1004,1,"Cannon, Adam H",Introduction To Computer Science And Programming In Java,Computer Science,Spring 2022
+COMS W 4261,1,"Malkin, Tal G",Introduction To Cryptography,Computer Science,Spring 2022
+COMS W 4111,1,"Wu, Eugene",Introduction to Databases,Computer Science,Spring 2022
+COMS W 4111,2,"Ferguson, Donald F.",Introduction to Databases,Computer Science,Spring 2022
+COMS W 4111,3,"Biliris, Alexandros",Introduction to Databases,Computer Science,Spring 2022
+COMS W 4771,1,"Verma, Nakul",Machine Learning,Computer Science,Spring 2022
+COMS E 6998,10,"Kucukelbir, Alp",Machine Learning &climate,Computer Science,Spring 2022
+COMS W 4721,1,"Hsu, Daniel J",Machine Learning for Data Science,Computer Science,Spring 2022
+COMS E 4762,1,"Knowles, David",Machine Learning for Functional Genomics,Computer Science,Spring 2022
+CSEE E 6180,1,"Misra, Vishal",Modeling and performance evaluation,Computer Science,Spring 2022
+COMS W 4995,10,"Papadimitriou, Christos H",Nat Art Neural Networks L,Computer Science,Spring 2022
+COMS W 4995,9,"Papadimitriou, Christos H",NATUR ARTIFIC NEURAL NETWORKS,Computer Science,Spring 2022
+COMS W 4705,1,"Yu, Zhou",Natural Language Processing,Computer Science,Spring 2022
+COMS W 4705,2,"Benajiba, Yassine",Natural Language Processing,Computer Science,Spring 2022
+COMS W 4118,1,"Lee, Jae Woo","Operating Systems, I",Computer Science,Spring 2022
+COMS E 6998,9,"Dube, Parijat",Pract Deep Learning Sys P,Computer Science,Spring 2022
+COMS W 4115,1,"Gu, Ronghui",Programming Languages and Translators,Computer Science,Spring 2022
+COMS E 6998,12,"Horesh, Lior",Quantum Computing Thry Pract,Computer Science,Spring 2022
+COMS W 4182,1,"Bellovin, Steven M.",Security II,Computer Science,Spring 2022
+COMS E 6998,5,"Zemel, Richard",Self Supervised Learning,Computer Science,Spring 2022
+COMS W 4995,1,"Bauer, Daniel",Semantic Representations,Computer Science,Spring 2022
+COMS E 6998,6,"Yuen, Henry","Topics In Computer Science, I",Computer Science,Spring 2022
+COMS E 6156,1,"Kaiser, Gail E",Topics in Software Engineering,Computer Science,Spring 2022
+COMS W 4995,2,"Pe'er, Itsik G",Ubiquitous Sequencing,Computer Science,Spring 2022
+COMS W 4170,1,"Chilton, Lydia B",User Interface Design,Computer Science,Spring 2022
+COMS E 6998,2,"Chilton, Lydia B",Adv Web Design Studio,Computer Science,Fall 2021
+COMS W 3157,1,"Lee, Jae Woo",Advanced Programming,Computer Science,Fall 2021
+COMS W 4156,1,"Kaiser, Gail E",Advanced Software Engineering,Computer Science,Fall 2021
+COMS E 6998,15,"Alman, Josh",Algebraic Techniques In T,Computer Science,Fall 2021
+CSOR W 4246,1,"Drinea, Eleni",ALGORITHMS FOR DATA SCIENCE,Computer Science,Fall 2021
+CSOR W 4231,1,"Yannakakis, Mihalis",Analysis of Algorithms I,Computer Science,Fall 2021
+CSOR W 4231,2,"Andoni, Alexandr",Analysis of Algorithms I,Computer Science,Fall 2021
+COMS W 4167,1,"Zheng, Changxi",Animation,Computer Science,Fall 2021
+COMS W 4995,11,"Pappu, Vijay",Applied Machine Learning,Computer Science,Fall 2021
+COMS W 4701,1,"Salleb-Aouissi, Ansaf",Artificial Intelligence,Computer Science,Fall 2021
+COMS W 4775,1,"Bareinboim, Elias",Causal Inference,Computer Science,Fall 2021
+COMS W 3107,1,"Kender, John R",Clean Object-Oriented Design,Computer Science,Fall 2021
+COMS E 6998,13,"Sahu, Sambit",Cloud Computing & Big Dat,Computer Science,Fall 2021
+COMS E 6998,9,"Papadimitriou, Christos H",Computation And The Brain,Computer Science,Fall 2021
+COMS W 4733,1,"Dear, Tony",Computational Aspects of Robotics,Computer Science,Fall 2021
+COMS W 3251,1,"Dear, Tony",Computational Linear Algebra,Computer Science,Fall 2021
+CSEE W 4824,1,"Sethumadhavan, Simha",Computer Architecture,Computer Science,Fall 2021
+CSEE W 4119,3,"Misra, Vishal",Computer Networks,Computer Science,Fall 2021
+COMS S 3261,1,"Chen, Xi",Computer Science Theory,Computer Science,Fall 2021
+COMS W 3261,1,"Chen, Xi",Computer Science Theory,Computer Science,Fall 2021
+COMS W 4731,1,"Nayar, Shree K",Computer Vision,Computer Science,Fall 2021
+COMS W 3410,1,"Bellovin, Steven M.",Computers and Society,Computer Science,Fall 2021
+COMS W 1002,1,"Cannon, Adam H",Computing in Context,Computer Science,Fall 2021
+COMS W 3134,1,"Bauer, Daniel",Data Structures in Java,Computer Science,Fall 2021
+COMS W 4995,6,"Belhumeur, Peter N",Deep Lrng For Comp Vision,Computer Science,Fall 2021
+COMS W 3203,2,"Moretti, Antonio K",Discrete Mathematics: Introduction To Combinatorics and Graph Theory,Computer Science,Fall 2021
+COMS W 3203,1,"Liu, Yining",Discrete Mathematics: Introduction To Combinatorics and Graph Theory,Computer Science,Fall 2021
+COMS W 3203,3,"Rubenstein, Dan",Discrete Mathematics: Introduction To Combinatorics and Graph Theory,Computer Science,Fall 2021
+COMS W 4995,10,"Gibson, Bryan",Elements For Data Science,Computer Science,Fall 2021
+COMS E 6998,14,"Levine, Michelle F",Empirical Methods Data Sc,Computer Science,Fall 2021
+COMS W 4995,3,"Yang, Junfeng",Engr Software As A Servic,Computer Science,Fall 2021
+COMS W 3136,1,"Paine, Timothy",ESSENTIAL DATA STRUCTURES IN C/C++,Computer Science,Fall 2021
+CSEE E 6863,1,"Theobald, Michael",Formal Verif HW SW Systems,Computer Science,Fall 2021
+COMS E 6998,3,"Gu, Ronghui",Formal Verification Syste,Computer Science,Fall 2021
+COMS E 6998,6,"Roughgarden, Tim",Foundations Of Blockchain,Computer Science,Fall 2021
+COMS E 6998,11,"Beigi, Homayoon",Fund Speech Recognition,Computer Science,Fall 2021
+CSEE W 3827,1,"Kim, Martha A",Fundamentals of Computer Systems,Computer Science,Fall 2021
+COMS W 4995,1,"Blaer, Paul S",Hacking 4 Defense,Computer Science,Fall 2021
+COMS w 4419,1,"Schulzrinne, Henning G","INTERNET TECHNOLOGY,ECONOMICS,AND POLICY",Computer Science,Fall 2021
+ENGI E 1006,1,"Bauer, Daniel",Intro To Comp For Eng/app,Computer Science,Fall 2021
+COMS W 4995,4,"Chaintreau, Augustin",Intro To Networks And Cro,Computer Science,Fall 2021
+COMS W 4252,1,"Servedio, Rocco A.",Introduction to Computational Learning Theory,Computer Science,Fall 2021
+COMS W 1004,1,"Blaer, Paul S",Introduction To Computer Science And Programming In Java,Computer Science,Fall 2021
+COMS W 4111,1,"Gravano, Luis",Introduction to Databases,Computer Science,Fall 2021
+COMS W 4111,2,"Ferguson, Donald F.",Introduction to Databases,Computer Science,Fall 2021
+COMS W 4111,3,"Biliris, Alexandros",Introduction to Databases,Computer Science,Fall 2021
+COMS W 1001,1,"Cannon, Adam H",Introduction to Information Science,Computer Science,Fall 2021
+COMS W 4995,5,"Pitassi, Toniann",Logic And Computability,Computer Science,Fall 2021
+COMS W 4771,1,"Verma, Nakul",Machine Learning,Computer Science,Fall 2021
+COMS W 4771,2,"Hsu, Daniel J",Machine Learning,Computer Science,Fall 2021
+COMS W 4186,1,"Sikorski, Michael",MALWARE ANALYSIS&REVERSE ENGINEERING,Computer Science,Fall 2021
+COMS W 4705,1,"McKeown, Kathleen",Natural Language Processing,Computer Science,Fall 2021
+COMS W 4705,2,"Benajiba, Yassine",Natural Language Processing,Computer Science,Fall 2021
+COMS W 4995,7,"Zemel, Richard",Neural Networks Deep Lear,Computer Science,Fall 2021
+COMS W 4118,1,"Lee, Jae Woo","Operating Systems, I",Computer Science,Fall 2021
+COMS W 4995,2,"Edwards, Stephen A.",Parallel Functional Progr,Computer Science,Fall 2021
+COMS E 6998,12,"Dube, Parijat",Pract Deep Learning Sys P,Computer Science,Fall 2021
+COMS W 4460,1,"Reinisch, William",Principles of Innovation and Entrepreneurship (co-instructor: William Reinisch),Computer Science,Fall 2021
+COMS W 4444,1,"Ross, Kenneth A",Programming and Problem Solving,Computer Science,Fall 2021
+COMS W 4115,1,"Ray, Baishakhi",Programming Languages and Translators,Computer Science,Fall 2021
+COMS W 4115,2,"Edwards, Stephen A.",Programming Languages and Translators,Computer Science,Fall 2021
+COMS E 6998,1,"Vondrick, Carl",Representation Learning,Computer Science,Fall 2021
+COMS W 4181,1,"Jana, Suman",Security I,Computer Science,Fall 2021
+COMS E 6998,7,"Yang, Junfeng",Security Robustness Ml Sy,Computer Science,Fall 2021
+COMS E 6998,10,"Wu, Eugene",Sys For Human Data Intera,Computer Science,Fall 2021
+CSEE W 4868,1,"Carloni, Luca",System-on-Chip Platforms,Computer Science,Fall 2021
+COMS E 6998,5,"Song, Shuran",Topics In Robotic Learnin,Computer Science,Fall 2021
+COMS E 6156,1,"Ferguson, Donald F.",Topics in Software Engineering,Computer Science,Fall 2021
+COMS W 4774,1,"Verma, Nakul",Unsupervised Learning,Computer Science,Fall 2021
+COMS W 4170,1,"Smith, Brian A",User Interface Design,Computer Science,Fall 2021
+COMS E 6998,4,"Feiner, Steven K",Virtual And Augmented Rea,Computer Science,Fall 2021

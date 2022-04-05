@@ -1,0 +1,24 @@
+cid,sid,instructor,cname,department,Date,location
+BMEN E3020,1,"Elizabeth Hillman,Clark T Hung,Nandan L Nerurkar",BIOMEDICAL ENGINEERING II,Biomedical Engineering,Spring 2022,633 Seeley W. Mudd Building
+BMEN E3820,1,"Aaron M Kyle,Clark T Hung,Barclay Morrison,Elisa Konofagou",BIOMEDICAL ENGINEERING LAB II,Biomedical Engineering,,382 Engineering Terrace
+BMEN E3920,1,Qi Wang,BIOMEDICAL ENGIN DESIGN II,Biomedical Engineering,,750 Schapiro [SCEP]
+BMEN E3998,2,Tal Danino,PROJECTS IN BIOMEDICAL ENGIN,Biomedical Engineering,,
+BMEN E3999,1,Lance Kam,UNDERGRADUATE FIELDWORK,Biomedical Engineering,,
+BMEN E4000,1,John T Vaughan,SPECIAL TOPICS IN BIOMEDICAL,Biomedical Engineering,,343 Seeley W. Mudd Building
+BMEN E4000,2,"Gordana Vunjak-Novakovic,Clark T Hung",SPECIAL TOPICS IN BIOMEDICAL,Biomedical Engineering,,140 Uris Hall
+BMEN E4002,1,Barclay Morrison,QUANT PHYSIOLOGY II:ORGAN SYST,Biomedical Engineering,,833 Seeley W. Mudd Building
+BMEN E4210,1,Samuel Sia,DRIVING FORCES OF BIOLOGICAL SYSTEMS,Biomedical Engineering,,627 Seeley W. Mudd Building
+BMEN E4310,1,X. Edward Guo,SOLID BIOMECHANICS,Biomedical Engineering,,524 Seeley W. Mudd Building
+BMEN E4410,1,Elisa Konofagou,PRIN OF ULTRASOUND IN MEDICINE,Biomedical Engineering,,420 Pupin Laboratories
+BMEN E4420,1,Paul Sajda,SIGNAL MODELING,Biomedical Engineering,,410 International Affairs: Building
+BMEN E4460,1,Jia Guo,DEEP LEARNING IN BIOMEDICAL IMAGING,Biomedical Engineering,,633 Seeley W. Mudd Building
+BMEN E4480,1,Elham Azizi,STATISTICAL MACHINE LEARNING FOR GENOMIC,Biomedical Engineering,,633 Seeley W. Mudd Building
+BMEN E4550,1,Lance Kam,MICRO/NANO STRUCT CELL ENG,Biomedical Engineering,,545 Seeley W. Mudd Building
+BMEN E4999,1,Clark T Hung,FIELDWORK,Biomedical Engineering,,
+BMEN E6001,1,Henry Hess,TOPICS IN BIOMED NANOTECHNOLOGY,Biomedical Engineering,,327 Seeley W. Mudd Building
+BMEN E6003,1,"Jose Mcfaline-Figuero,Tal Danino,Elizabeth Olson,Elisa Konofagou",COMP MODELING-PHYSIOL SYSTEMS,Biomedical Engineering,,501 Northwest Corner Building
+BMEN E6006,1,"Krista M Durney,Chirag Sachar",BIOMEDICAL DESIGN II,Biomedical Engineering,,825 Seeley W. Mudd Building
+BMEN E6007,1,"Maria Rahmany,Dmytro Pokhylko",LAB-TO-MARKET,Biomedical Engineering,,
+BMEN E6510,1,"Stephen H Tsang,Gordana Vunjak-Novakovic,Dietrich Egli","STEM CELL, GENOME ENG & REGEN MED",Biomedical Engineering,,OTHR
+BMEN E9100,1,Gerard H Ateshian,MASTERS RESEARCH,Biomedical Engineering,,
+BMEN E9700,1,"Joshua Jacobs,Elizabeth Olson",BIOMEDICAL ENGINEERING SEMINAR,Biomedical Engineering,,833 Seeley W. Mudd Building

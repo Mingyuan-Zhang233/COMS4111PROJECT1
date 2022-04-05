@@ -1,0 +1,113 @@
+cid,sid,instructor,cname,department,Date
+ELEN E1201,1,D. Vallancourt,Intro to Electrical Engineering,Electrical Engineering,Spring 2022
+ELEN E3082,1,K. Shepard,Digital Systems Laboratory,Electrical Engineering,Spring 2022
+ELEN E3082,2,K. Shepard,Digital Systems Laboratory,Electrical Engineering,Spring 2022
+ELEN E3082,3,K. Shepard,Digital Systems Laboratory,Electrical Engineering,Spring 2022
+ELEN E3082,4,K. Shepard,Digital Systems Laboratory,Electrical Engineering,Spring 2022
+ELEN E3083,1,D. Vallancourt,Electronic Circuits Laboratory,Electrical Engineering,Spring 2022
+ELEN E3083,2,D. Vallancourt,Electronic Circuits Laboratory,Electrical Engineering,Spring 2022
+ELEN E3083,3,D. Vallancourt,Electronic Circuits Laboratory,Electrical Engineering,Spring 2022
+ELEN E3331,1,C. Zukowski,Electronic Circuits,Electrical Engineering,Spring 2022
+ELEN E3390,1,D. Vallancourt,Electronic Circuits Design Lab,Electrical Engineering,Spring 2022
+ELEN E3401,1,K. Bergman,Electromagnetics,Electrical Engineering,Spring 2022
+ELEN E3701,1,I. Kalet,Intro to Communication Systems,Electrical Engineering,Spring 2022
+CSEE W3827,1,D. Rubenstein,Fundamentals of Computer Systems,Electrical Engineering,Spring 2022
+CSEE W3827,2,D. Rubenstein,Fundamentals of Computer Systems,Electrical Engineering,Spring 2022
+CSEE W3827,3,D. Rubenstein,Fundamentals of Computer Systems,Electrical Engineering,Spring 2022
+ECBM E4070,1,A. Lazar,Computing with Brain Circuits of Model Organisms,Electrical Engineering,Spring 2022
+CSEE W4119,1,G. Zussman,Computer Networks,Electrical Engineering,Spring 2022
+CSEE W4119,2,H. Schulzrinne,Computer Networks,Electrical Engineering,Spring 2022
+CSEE W4121,2,S. Sahu,Computing Systems for Data Science,Electrical Engineering,Spring 2022
+CSEE W4121,3,A. Cidon,Computing Systems for Data Science,Electrical Engineering,Spring 2022
+ELEN E4314,1,D. Vallancourt,Communication Circuits,Electrical Engineering,Spring 2022
+EEME E4601,1,R. Longman,Digital Control Systems,Electrical Engineering,Spring 2022
+ELEN E4702,1,A. Ashikhmin,Digital Communications,Electrical Engineering,Spring 2022
+ELEN E4815,1,I. Kalet,Random Signals and Noise,Electrical Engineering,Spring 2022
+ELEN E4830,1,C. Hendon,Digital Image Processing,Electrical Engineering,Spring 2022
+CSEE W4840,1,S. Edwards,Embedded Systems,Electrical Engineering,Spring 2022
+ELEN E4902,1,M. A. Omidiora,Topics in Electrical and Computer Engineering. TPC: Electric Machines,Electrical Engineering,Spring 2022
+CSEE W6180,1,V. Misra,Modeling & Performance Evaluation,Electrical Engineering,Spring 2022
+ELEN E6312,1,H. Krishnaswamy,Adv Analog Integrated Circuits,Electrical Engineering,Spring 2022
+ELEN E6316,1,T. Dickson,Analog-digital Interfaces in VLSI,Electrical Engineering,Spring 2022
+ELEN E6318,1,Y. Baeyens,Microwave Circuit Design,Electrical Engineering,Spring 2022
+EECS E6321,1,M. Seok,Advanced Digital Electronic Circuits,Electrical Engineering,Spring 2022
+ELEN E6331,1,W. Wang,Principles of Semiconductor Physics,Electrical Engineering,Spring 2022
+ELEN E6350,1,P. Kinget,VLSI Design Lab,Electrical Engineering,Spring 2022
+ELEN E6412,1,A. Meng,Lightwave Systems,Electrical Engineering,Spring 2022
+ELEN E6414,1,M. Lipson,Photonic Integrated Circuits,Electrical Engineering,Spring 2022
+EEME E6602,1,J. Anderson,Modern Control Theory,Electrical Engineering,Spring 2022
+EEOR E6616,1,C. Josz,Convex Optimization,Electrical Engineering,Spring 2022
+EECS E6691,1,Z. Kostic,Topics in Data-driven Analysis and Computation. TPC: Advanced Deep Learning,Electrical Engineering,Spring 2022
+EECS E6692,1,Z. Kostic,Topics in Data-driven Analysis and Computation. TPC: Deep Learning on the Edge,Electrical Engineering,Spring 2022
+EECS E6699,1,P. Jelenkovic,Topics in Data-driven Analysis and Computation. TPC: Mathematics of Deep Learning,Electrical Engineering,Spring 2022
+ELEN E6767,1,D. Mitra,"Internet Economics, Engineering & the Implications for Society",Electrical Engineering,Spring 2022
+ELEN E6771,1,D. Calin,Topics in Networking. TPC: 5G Programmable Networks,Electrical Engineering,Spring 2022
+CSEE E6868,1,L. Carloni,Embedded Scalable Platforms,Electrical Engineering,Spring 2022
+ELEN E6876,1,J. Wright,Sparse and Low-Dimensional Models for High-Dimensional Data,Electrical Engineering,Spring 2022
+ELEN E6883,1,C. Li,Topics in Signal Processing. TPC: An Introduction to Blockchain Technology,Electrical Engineering,Spring 2022
+ELEN E6889,1,D. Turaga,Topics in Signal Processing. TPC: Large-Scale Stream Processing,Electrical Engineering,Spring 2022
+EECS E6892,1,J. Ghaderi,Topics in Information Processing. TPC: Reinforcement Learning in Information Systems,Electrical Engineering,Spring 2022
+EECS E6895,1,C.-Y. Lin,Topics in Information Processing. TPC: Advanced Big Data and Artificial Intelligence,Electrical Engineering,Spring 2022
+ELEN E6901,1,S. Suresh,"Topics in Information Processing. TPC: Technologies, Market, Governance & Operations of Smart Grid",Electrical Engineering,Spring 2022
+ELEN E6904,1,T. Haque,Topics in Information Processing. TPC: Transceiver Architectures for xG Wireless Communications,Electrical Engineering,Spring 2022
+ELEN E6908,1,F. Jiang,Topics in Electrical and Computer Engineering. TPC: Embedded AI,Electrical Engineering,Spring 2022
+ELEN E6909,1,M. Priendl,Topics in Electrical and Computer Engineering. TPC: Motor Drive Systems,Electrical Engineering,Spring 2022
+ELEN E6945,1,D. Khodagholy,Device Nanofabrication,Electrical Engineering,Spring 2022
+EECS E9601,1,J. Paisley,Seminar in Data-Driven Analysis and Computation. TPC: Advanced Probabilistic Machine Learning,Electrical Engineering,Spring 2022
+ELEN E1101,1,D. Vallancourt,The Digital Information Age,Electrical Engineering,Fall 2021
+ELEN E1201,1,D. Vallancourt,Intro to Electrical Engineering,Electrical Engineering,Fall 2021
+ELEN E3043,1,W. Wang ,"Solid State, Microwave, Fiber Optics Lab",Electrical Engineering,Fall 2021
+ELEN E3081,1,C. Zukowski,Circuit Analysis Laboratory,Electrical Engineering,Fall 2021
+ELEN E3081,2,C. Zukowski,Circuit Analysis Laboratory,Electrical Engineering,Fall 2021
+ELEN E3081,3,C. Zukowski,Circuit Analysis Laboratory,Electrical Engineering,Fall 2021
+ELEN E3084,1,X. Wang ,Signals & Systems Laboratory,Electrical Engineering,Fall 2021
+ELEN E3084,2,X. Wang ,Signals & Systems Laboratory,Electrical Engineering,Fall 2021
+ELEN E3084,3,X. Wang ,Signals & Systems Laboratory,Electrical Engineering,Fall 2021
+ELEN E3106,1,J. Kymissis,Solid State Devices & Materials,Electrical Engineering,Fall 2021
+ELEN E3201,1,C. Zukowski,Circuit Analysis,Electrical Engineering,Fall 2021
+ELEN E3399,1,D. Vallancourt,Elen Eng Practice,Electrical Engineering,Fall 2021
+EEME E3601,1,R. Longman,Classical Control Systems,Electrical Engineering,Fall 2021
+ELEN E3801,1,X. Wang ,Signals & Systems,Electrical Engineering,Fall 2021
+CSEE W3827,1,M. Kim,Fundamentals of Computer Systems,Electrical Engineering,Fall 2021
+CSEE W3827,2,M. Kim,Fundamentals of Computer Systems,Electrical Engineering,Fall 2021
+BMEB W4020,1,A. Lazar,Comp Neuro: Circuits in the Brain,Electrical Engineering,Fall 2021
+BMEE E4030,1,Q. Wang,Neural Control Engineering,Electrical Engineering,Fall 2021
+ECBM E4040,1,Z. Kostic  ,Neural Networks and Deep Learning,Electrical Engineering,Fall 2021
+ECBM E4060,1,W.Y.-Chen,Intro to Genomic Info Sci & Tech,Electrical Engineering,Fall 2021
+ECBM E4090,1,N. Mesgarani,Brain Computer Interfaces Lab,Electrical Engineering,Fall 2021
+ELEN E4106,1,J. Kymissis,Advanced Solid State Devices & Materials,Electrical Engineering,Fall 2021
+CSEE W4119,1,V. Misra,Computer Networks,Electrical Engineering,Fall 2021
+ELEN E4215,1,T. Dickson,Analog Filter Synthesis and Design,Electrical Engineering,Fall 2021
+ELEN E4312,1,P. Kinget,Analog Electric Circuits,Electrical Engineering,Fall 2021
+EECS E4321,1,K. Shepard,Digital VLSI Circuits,Electrical Engineering,Fall 2021
+ELEN E4361,1,M. Preindl  ,Power Electronics,Electrical Engineering,Fall 2021
+ELEN E4411,1,M. Lipson,Fundamentals of Photonics,Electrical Engineering,Fall 2021
+ELEN E4488,1,C. Hendon ,Optical Systems,Electrical Engineering,Fall 2021
+ELEN E4511,1,D. Sciano,Power Systems Analysis,Electrical Engineering,Fall 2021
+ELEN E4720,1,J. Paisley,"Machine Learning For Signals, Information and Data",Electrical Engineering,Fall 2021
+EECS E4750,1,Z. Kostic,Heterogeneous Computing for Signal and Data Processing,Electrical Engineering,Fall 2021
+EECS E4764,1,X. Jiang,Internet of Things - Intelligent and Connected Systems,Electrical Engineering,Fall 2021
+ELEN E4810,1,J. Wright,Digital Signal Processing,Electrical Engineering,Fall 2021
+CSEE W4823,1,M. Seok ,Advanced Logic Design,Electrical Engineering,Fall 2021
+CSEE W4824,1,S. Sethumadhavan,Computer Architecture,Electrical Engineering,Fall 2021
+CSEE W4868,1,L. Carloni,System-On-Chip Platforms,Electrical Engineering,Fall 2021
+ELEN E4901,1,V. Fthenakis,Topics in Electrical and Computer Engineering. TPC: Photovoltaic Systems Engineering and Sustainability,Electrical Engineering,Fall 2021
+ELEN E4944,1,J. Trevino,Principles of Device Microfabrication,Electrical Engineering,Fall 2021
+EEBM E6091,1,D. Khodagholy ,Topics in Computational Neuroscience and Neuroengineering. TPC: Devices and Analysis for Neural Circuits,Electrical Engineering,Fall 2021
+ELEN E6320,1,H. Krishnaswamy,Millimeter-wave IC design,Electrical Engineering,Fall 2021
+ELEN E6324,1,S. Shahramian,RF/Microwave Measurement,Electrical Engineering,Fall 2021
+ELEN E6333,1,A. Meng,Semiconductor Device Physics,Electrical Engineering,Fall 2021
+ELEN E6488,1,K. Bergman,Optical Interconnects,Electrical Engineering,Fall 2021
+EEME E6601,1,R. Longman,Intro To Control Theory,Electrical Engineering,Fall 2021
+EECS E6690,1,P. Jelenkovic,Topics in Data-driven Analysis and Computation. TPC: Statistical Learning in Biological & Information Systems,Electrical Engineering,Fall 2021
+ELEN E6713,1,J. Sharony,Topics in Communication. mmWave and Applications for 5G,Electrical Engineering,Fall 2021
+ELEN E6761,1,J. Ghaderi,Computer Communication Networks,Electrical Engineering,Fall 2021
+ELEN E6767,1,D. Mitra,"Internet Econ, Eng & Society",Electrical Engineering,Fall 2021
+ELEN E6770,1,K. Sabnani/T.Woo,Topics in Networking. TPC: Network Virtualization and Cloud Computing,Electrical Engineering,Fall 2021
+CSEE E6863,1,M. Theobald/F. Ivancic,Formal Verif HW SW Systems,Electrical Engineering,Fall 2021
+ELEN E6885,1,C. Li/ L. Zhang,Topics in Signal Processing. TPC: Reinforcement Learning,Electrical Engineering,Fall 2021
+EECS E6893,1,C.Y. Lin,Topics in Information Processing. TPC: Big Data Analytics,Electrical Engineering,Fall 2021
+EECS E6890,1,E. Katz-Bassett,Topics in Information Processing. TPC: Advanced Computer Networking,Electrical Engineering,Fall 2021
+EECS E6896,1,A. Ashikhmin,Topics in Information Processing. TPC: Quantum Computing and Communication,Electrical Engineering,Fall 2021
+EECS E6897,1,A. Cidon,Topics in Information Processing. TPC: Distributed Storage Systems,Electrical Engineering,Fall 2021
+ELEN E6920,1,X. Zhang,Topics in VLSI Systems Design.TPC:Modern Power Management Integrated Circuits,Electrical Engineering,Fall 2021
