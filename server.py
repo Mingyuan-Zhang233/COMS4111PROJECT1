@@ -111,20 +111,19 @@ def add_a_student():
     if request.method == 'POST':
         sname = request.form['sname']
         uni = request.form['uni']
-        did = request.form['did']
+        did = int(request.form['did'])
         status = request.form['status']
         exp = request.form['exp']
         addm = request.form['addm']
         pid = int(request.form['pid'])
-        school = int(request.form['sch'])
         print(list(request.form.values()))
         if '' in list(request.form.values()):
             flask.flash('All fields must be filled!')
         elif is_valid_date([exp, addm]):
             flask.flash('Date incorrect, check format!')
         else:
-            # add_student(cur, uni, status, sname, exp, addm, did, pid)
-            # db_connection.commit()
+            add_student(cur, uni, status, sname, exp, addm, did, pid)
+            db_connection.commit()
             return flask.render_template('success.html')
     return flask.render_template('add_student.html')
 
@@ -184,20 +183,22 @@ def section():
         return flask.render_template('display.html', data=data, title='Filtered Sections')
     return flask.render_template('section.html')
 
+
 @app.route('/display/')
 def display(res):
     table = res[0]
     title = res[1]
     return flask.render_template('display.html', data=table, title=title)
 
-@app.route('/sinfo/', methods = ['GET', 'POST'])
+
+@app.route('/sinfo/', methods=['GET', 'POST'])
 def sinfo():
     if request.method == 'POST':
         uni = request.form['sid']
         info = get_student_by_id(cur, uni)
-        head = ['UNI: ','Name: ','Department: ','Status: ','Programs: ', 'Expected Graduation: ', 'Admitted Year: ']
-        data = [[],[],[],[],[],[],[]]
-        if len(info) ==0:
+        head = ['UNI: ', 'Name: ', 'Department: ', 'Status: ', 'Programs: ', 'Expected Graduation: ', 'Admitted Year: ']
+        data = [[], [], [], [], [], [], []]
+        if len(info) == 0:
             flask.flash('Unknown UNI. Student DNE.')
         else:
             for row in info:
@@ -208,4 +209,6 @@ def sinfo():
                 data[idx].insert(0, head[idx])
         return flask.render_template('display.html', data=data, title='Student Info')
     return flask.render_template('student_info.html')
+
+
 app.run(host='0.0.0.0', port=80)
