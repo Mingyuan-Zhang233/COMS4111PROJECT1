@@ -145,7 +145,7 @@ def record_course():
         else:
             add_is_taking(cur, cid, sid, csid)
             db_connection.commit()
-    return flask.render_template('add_section.html')
+    return flask.render_template('record_course.html')
 
 
 @app.route('/student/', methods=['GET', 'POST'])
